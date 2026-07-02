@@ -1,0 +1,23 @@
+# LangChain core
+langchain
+langchain-community
+langchain-ollama
+
+# Vector database
+chromadb
+
+# PDF loading
+pypdf
+
+# LangFuse observability
+langfuse
+
+# API server
+fastapi
+uvicorn
+
+# Environment variables
+python-dotenv
+
+# Data validation
+pydantic
